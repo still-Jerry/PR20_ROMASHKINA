@@ -1,0 +1,25 @@
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\БД\ПР06\Repair\bin\Debug\Repair.exe.config
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\БД\ПР06\Repair\bin\Debug\Repair.exe
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\БД\ПР06\Repair\bin\Debug\Repair.pdb
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\БД\ПР06\Repair\obj\Debug\Repair.ViewForm.resources
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\БД\ПР06\Repair\obj\Debug\Repair.MenuForm.resources
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\БД\ПР06\Repair\obj\Debug\Repair.Properties.Resources.resources
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\БД\ПР06\Repair\obj\Debug\Repair.csproj.GenerateResource.Cache
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\БД\ПР06\Repair\obj\Debug\Repair.exe
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\БД\ПР06\Repair\obj\Debug\Repair.pdb
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\БД\ПР06\Repair\obj\Debug\Repair.AddForm.resources
+C:\Users\Командор\Desktop\Сайт_ы\Курс 4\БД\ПР06\Repair\obj\Debug\Repair.csprojResolveAssemblyReference.cache
+C:\Users\Командор\Desktop\Repair\bin\Debug\Repair.exe.config
+C:\Users\Командор\Desktop\Repair\obj\Debug\Repair.exe
+C:\Users\Командор\Desktop\Repair\obj\Debug\Repair.pdb
+C:\Users\Командор\Desktop\Repair\bin\Debug\Repair.exe
+C:\Users\Командор\Desktop\Repair\bin\Debug\Repair.pdb
+C:\Users\Командор\Desktop\Repair\obj\Debug\Repair.csprojResolveAssemblyReference.cache
+C:\Users\Командор\Desktop\Repair\obj\Debug\Repair.AddForm.resources
+C:\Users\Командор\Desktop\Repair\obj\Debug\Repair.ViewForm.resources
+C:\Users\Командор\Desktop\Repair\obj\Debug\Repair.MenuForm.resources
+C:\Users\Командор\Desktop\Repair\obj\Debug\Repair.Properties.Resources.resources
+C:\Users\Командор\Desktop\Repair\obj\Debug\Repair.csproj.GenerateResource.Cache
+C:\Users\Командор\Desktop\Repair\bin\Debug\System.Data.SQLite.dll
+C:\Users\Командор\Desktop\Repair\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Командор\Desktop\Repair\bin\Debug\System.Data.SQLite.xml
