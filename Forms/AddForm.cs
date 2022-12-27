@@ -73,8 +73,9 @@ namespace Repair
                 MessageBox.Show("Проверьте заполненность ключевых полей", "Ошибка добваления");
             }
             else {
-                string data = dateTimePicker.Value.Year + "." + dateTimePicker.Value.Month + "." + dateTimePicker.Value.Day;
-                string command = "Insert into " + TablesComboBox.Text + " values (null, '" + FTextBox.Text + "', '" + ITextBox.Text + "', '" + OTextBox.Text + "','" + data + "', '" + JobTitleTextBox.Text + "');";
+                //string data = dateTimePicker.Value.Year + "." + dateTimePicker.Value.Month + "." + dateTimePicker.Value.Day;
+                string data = dateTimePicker.Value.ToString("yyyy-MM-dd");
+                string command = "Insert into master values (null, '" + FTextBox.Text + "', '" + ITextBox.Text + "', '" + OTextBox.Text + "','" + data + "', '" + JobTitleTextBox.Text + "');";
                 WorkWithDB.FuncInBD(dataGridView1, command);
                 WorkWithDB.TakeFromDB(dataGridView1, "master");
                 ITextBox.Text = "";
